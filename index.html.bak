@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="Zh-CN" class="no-js">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="奶茶是我的世界（Minecraft PE）基岩版1.20.X大型的养老生存服务器！超多玩法，养老生存，赶快和小伙伴们开始冒险吧！">
-<meta name="keywords" content="我的世界奶茶,我的世界基岩版服务器,我的世界服务器,我的世界养老生存">
+<meta name="description" content="HeCafter荣耀是我的世界（Minecraft PE）基岩版1.16大型的RPG生存服务器！超多玩法，高难度生存，赶快和小伙伴们开始冒险吧！">
+<meta name="keywords" content="HeCafter,我的世界荣耀,我的世界基岩版服务器,我的世界服务器,我的世界RPG生存">
 
-<title>我的世界基岩版知名服务器-奶茶</title>
+<title>我的世界基岩版知名服务器-HeCafter荣耀</title>
 
 
 <link href="https://fonts.googleapis.com/css?family=Press+Start+2P%7CLato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
@@ -111,7 +111,7 @@
 				</li>
 				<li>
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-						<span class="main-link">奶茶<b class="caret"></b></span>
+						<span class="main-link">荣耀<b class="caret"></b></span>
 						<span class="additional-info-link">
 							服务器详细
 						</span>
@@ -121,7 +121,7 @@
 							<a href="#timeline">发展史</a>
 						</li>
 						<li>
-							<a href="#team">奶茶开发组</a>
+							<a href="#team">荣耀开发组</a>
 						</li>
 						<li>
 							<a href="#flow">加入服务器</a>
@@ -130,10 +130,10 @@
 							<a href="#faq">常见问题解答</a>
 						</li>
 						<li>
-							<a href="#pricing">奶茶特权系统</a>
+							<a href="#pricing">荣耀特权系统</a>
 						</li>
 						<li>
-							<a href="#testimonials">奶茶神殿管理者</a>
+							<a href="#testimonials">荣耀神殿管理者</a>
 						</li>
 						<li>
 							<a href="#requirements">开服云主机配置</a>
@@ -201,9 +201,9 @@
 			<div class="section-icon"><span><i class="fa fa-plug" aria-hidden="true"></i></span></div>
 			<div class="clearfix"></div>
 			<h2 class="digit-header">HECAFTER</h2>
-			<h3 class="signature-header"><small>奶茶 <strong>养老生存服务器</strong></small></h3>
+			<h3 class="signature-header"><small>HeCafter荣耀 <strong>RPG生存服务器</strong></small></h3>
 			<h1 class="system-header">欢迎来到属于你的荣耀！</h1>
-			<p class="section-description">milk tea奶茶是基于我的世界基岩版（Minecraft PE）1.20.X版本的玩家服务器！</br>采用E5-2695 2.40GHz 4H8G10M BGP高防云服务器开服，更好优化玩家游戏体验！</br>赶快和你的小伙伴们一起开始冒险吧！</p>
+			<p class="section-description">HeCafter荣耀是基于我的世界基岩版（Minecraft PE）1.16版本的玩家服务器！</br>采用E5-2695 2.40GHz 4H8G10M BGP高防云服务器开服，更好优化玩家游戏体验！</br>赶快和你的小伙伴们一起开始冒险吧！</p>
 
 			<a href="#" class="btn-border btn-primary" title="Play" data-toggle="modal" data-target="#order-modal">
 				<span class="btn btn-primary btn-lg"><i class="fa fa-play" aria-hidden="true"></i> Play</span>
@@ -217,13 +217,13 @@
 <div class="standard-section section-about" id="about">
 	<div class="container">
 		<div class="text-center">
-			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">什么是MilkTea奶茶</h3>
-			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">MilkTea</h2>
+			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">什么是HeCafter荣耀</h3>
+			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">HeCafter</h2>
 		</div>
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-info"></i></span></div>
 		</div>
-		<p class="section-description text-center lead">MilkTea奶茶是一个基于我的世界基岩版(Minecraft PE)上运行的服务器</br><span class="main-color">同时支持安卓/IOS/win10三端基岩版</span></span></br>全新的玩法，养老生存，全新副本，等你前来挑战！</p>
+		<p class="section-description text-center lead">HeCafter荣耀是一个基于我的世界基岩版(Minecraft PE)上运行的服务器</br><span class="main-color">同时支持安卓/IOS/win10三端基岩版</span></span></br>全新的玩法，高难度生存，RPG升级，全新副本，等你前来挑战！</p>
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="feature-box text-center">
@@ -238,9 +238,9 @@
 							<span class="glyphicon glyphicon-book"></span>
 						</span>
 					</span>
-					<h3 class="feature-header">养老生存</h3>
-					<p>服务器内有着丰富的养老模组，比如家具，更多自然动物等等</p>
-					<p class="lines-header no-margin" data-100p-top="transform[swing]:scale(0.5);opacity[swing]:0" data-75p-top="transform[swing]:scale(1);opacity[swing]:1">TIPS: <strong>养老生存</strong> !</p>
+					<h3 class="feature-header">高难度生存</h3>
+					<p>划分为普通生存区和高级生存区，其生存区内又分布着不同等级矿区！进入矿区后，死亡掉落开启！互相残杀，夺取资源。</p>
+					<p class="lines-header no-margin" data-100p-top="transform[swing]:scale(0.5);opacity[swing]:0" data-75p-top="transform[swing]:scale(1);opacity[swing]:1">TIPS: <strong>进入生存区后请万分小心</strong> !</p>
 				</div>
 			</div>
 			<div class="col-sm-4">
@@ -299,7 +299,7 @@
 			</div>
 		</div>
 
-		<p class="section-description text-center lead">这里是MilkTea奶茶！祝您游戏愉快！</p>
+		<p class="section-description text-center lead">这里是HeCafter荣耀！祝您游戏愉快！</p>
 	</div>
 </div>
 
@@ -351,7 +351,7 @@
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-paint-brush"></i></span></div>
 		</div>
-		<p class="section-description text-center lead">作品投稿请联系服主初尘！联系QQ：2982154294</p>
+		<p class="section-description text-center lead">作品投稿请联系服主初尘！联系QQ：2229222686</p>
 		<div class="row">
 			<div class="col-sm-6 col-md-4">
 				<div class="portfolio-item" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
@@ -361,7 +361,7 @@
 							<div class="portfolio-caption-outer">
 								<div class="overlay"></div>
 								<div class="portfolio-caption-inner">
-									<h4>MilkTea</h4>
+									<h4>HeCafter</h4>
 									<p>来自于网络资源！侵权请联系服主！</p>
 									<ul class="list-inline">
 										<li>
@@ -392,7 +392,7 @@
 							<div class="portfolio-caption-outer">
 								<div class="overlay"></div>
 								<div class="portfolio-caption-inner">
-									<h4>MilkTea</h4>
+									<h4>HeCafter</h4>
 									<p>来自于网络资源！侵权请联系服主！</p>
 									<ul class="list-inline">
 										<li>
@@ -424,7 +424,7 @@
 							<div class="portfolio-caption-outer">
 								<div class="overlay"></div>
 								<div class="portfolio-caption-inner">
-									<h4>MilkTea</h4>
+									<h4>HeCafter</h4>
 									<p>来自于网络资源！侵权请联系服主！</p>
 									<ul class="list-inline">
 										<li>
@@ -456,7 +456,7 @@
 							<div class="portfolio-caption-outer">
 								<div class="overlay"></div>
 								<div class="portfolio-caption-inner">
-									<h4>MilkTea</h4>
+									<h4>HeCafter</h4>
 									<p>来自于网络资源！侵权请联系服主！</p>
 									<ul class="list-inline">
 										<li>
@@ -488,7 +488,7 @@
 							<div class="portfolio-caption-outer">
 								<div class="overlay"></div>
 								<div class="portfolio-caption-inner">
-									<h4>MilkTea</h4>
+									<h4>HeCafter</h4>
 									<p>来自于网络资源！侵权请联系服主！</p>
 									<ul class="list-inline">
 										<li>
@@ -519,7 +519,7 @@
 							<div class="portfolio-caption-outer">
 								<div class="overlay"></div>
 								<div class="portfolio-caption-inner">
-									<h4>MilkTea</h4>
+									<h4>HeCafter</h4>
 									<p>来自于网络资源！侵权请联系服主！</p>
 									<ul class="list-inline">
 										<li>
@@ -557,13 +557,13 @@
 <div class="standard-section section-gray section-timeline" id="timeline">
 	<div class="container">
 		<div class="text-center">
-			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">关于MilkTea奶茶的历史</h3>
-			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">MT Timeline</h2>
+			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">关于HeCafter荣耀的历史</h3>
+			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">HC Timeline</h2>
 		</div>
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-calendar"></i></span></div>
 		</div>
-		<p class="section-description text-center lead">在这里，你会了解到MilkTea奶茶的开发与更新历程.</p>
+		<p class="section-description text-center lead">在这里，你会了解到HeCafter荣耀的开发与更新历程.</p>
 		<div class="timeline no-margin">
 			<div class="timeline-block">
 				<div class="timeline-img" data-100p-top="transform[swing]:scale(0)" data-75p-top="transform[swing]:scale(1)">
@@ -578,11 +578,11 @@
 						<i class="fa fa-power-off" aria-hidden="true"></i>
 					</div>
 					<h3 class="timeline-header">
-						<a href="#" title="Project started">MilkTea奶茶项目启动</a>
+						<a href="#" title="Project started">HECAFTER荣耀项目启动</a>
 					</h3>
 					<img class="img-responsive" src="img/screenshot-4-sm.jpg" alt="Project started">
 					<div class="timeline-description">
-						<p>在这一天，寻木（MECDADA）开始启动MilkTea奶茶服务器项目，着手这个服务器的制作，寻找伙伴加入！</p>
+						<p>在这一天，初尘（MECDADA）开始启动HeCafter荣耀服务器项目，着手这个服务器的制作，寻找伙伴加入！</p>
 					</div>
 				</div>
 			</div>
@@ -599,11 +599,11 @@
 						<i class="fa fa-cogs" aria-hidden="true"></i>
 					</div>
 					<h3 class="timeline-header">
-						<a href="#" title="First working demo of our game">MilkTea奶茶策划完毕</a>
+						<a href="#" title="First working demo of our game">HECAFTER荣耀策划完毕</a>
 					</h3>
 					<img class="img-responsive" src="img/screenshot-6-sm.jpg" alt="First working demo of our game">
 					<div class="timeline-description">
-						<p>人手太少了，只有寻木一人努力前行，一人一服。所幸策划终于完毕，开始了服务器制作！</p>
+						<p>人手太少了，只有初尘一人努力前行，一人一服。所幸策划终于完毕，开始了服务器制作！</p>
 					</div>
 				</div>
 			</div>
@@ -624,7 +624,7 @@
 					</h3>
 					<img class="img-responsive" src="img/screenshot-11-sm.jpg" alt="Work in progress">
 					<div class="timeline-description">
-						<p>在这五天里，寻木面对大量的插件，数据，配置。一个人总是觉得有心力不足，加上自己也没太多时间花费在荣耀上面。无数次想过放弃，但终于坚持下来了，完成了基本的配置...</p>
+						<p>在这五天里，初尘面对大量的插件，数据，配置。一个人总是觉得有心力不足，加上自己也没太多时间花费在荣耀上面。无数次想过放弃，但终于坚持下来了，完成了基本的配置...</p>
 					</div>
 				</div>
 			</div>
@@ -641,11 +641,11 @@
 						<i class="fa fa-bug" aria-hidden="true"></i>
 					</div>
 					<h3 class="timeline-header">
-						<a href="#" title="Testing and debugging">奶茶迎来了合作服和建筑师</a>
+						<a href="#" title="Testing and debugging">荣耀迎来了合作服和建筑师</a>
 					</h3>
 					<img class="img-responsive" src="img/screenshot-8-sm.jpg" alt="Testing and debugging">
 					<div class="timeline-description">
-						<p>这几天里，奶茶迎来了合作服务器，其中有TFC Server、末央城等。初尘还结识了荣耀建筑师CQ和建筑师夜幻，终于不用在担心建筑问题了，开始了大厅和副本的建造...</p>
+						<p>这几天里，荣耀迎来了合作服务器，其中有TFC Server、末央城等。初尘还结识了荣耀建筑师CQ和建筑师夜幻，终于不用在担心建筑问题了，开始了大厅和副本的建造...</p>
 					</div>
 				</div>
 			</div>
@@ -662,11 +662,11 @@
 						<i class="fa fa-gamepad" aria-hidden="true"></i>
 					</div>
 					<h3 class="timeline-header">
-						<a href="#" title="Alfa version released">MilkTea成立，开始招收玩家</a>
+						<a href="#" title="Alfa version released">HECAFTER成立，开始招收玩家</a>
 					</h3>
 					<img class="img-responsive" src="img/screenshot-5-sm.jpg" alt="Alfa version released">
 					<div class="timeline-description">
-						<p>这是很棒的一天，在这一天的MilkTea终于在匆匆忙忙中以半成品开服了！后续仍需努力！虽然没什么玩家，但是它是一个值得纪念的日子...</p>
+						<p>这是很棒的一天，在这一天HECAFTER终于在匆匆忙忙中以半成品开服了！后续仍需努力！虽然没什么玩家，但是它是一个值得纪念的日子...</p>
 					</div>
 				</div>
 			</div>
@@ -683,11 +683,11 @@
 						<i class="fa fa-flag-checkered" aria-hidden="true"></i>
 					</div>
 					<h3 class="timeline-header">
-						<a href="#" title="Final version released">MilkTea官方网站着手制作</a>
+						<a href="#" title="Final version released">HECAFTER官方网站着手制作</a>
 					</h3>
 					<img class="img-responsive" src="img/screenshot-7-sm.jpg" alt="Final version released">
 					<div class="timeline-description">
-						<p>截止目前，奶茶依旧是半成品状态，很可惜...但是，在今日寻木开始着手制作我啦！我将在未来的几天里上线，MilkTea奶茶也将迎来官方网站...</p>
+						<p>截止目前，荣耀依旧是半成品状态，很可惜...但是，在今日初尘开始着手制作我啦！我将在未来的几天里上线，HECAFTER荣耀也将迎来官方网站...</p>
 					</div>
 				</div>
 			</div>
@@ -699,21 +699,21 @@
 <div class="standard-section section-team" id="team">
 	<div class="container">
 		<div class="text-center">
-			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">MilkTea奶茶开发组成员</h3>
-			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">奶茶开发组</h2>
+			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">HeCafter荣耀开发组成员</h3>
+			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">荣耀开发组</h2>
 		</div>
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-users" aria-hidden="true"></i></span></div>
 		</div>
-		<p class="section-description text-center lead">重要：MilkTea奶茶招收开发组成员！</p>
+		<p class="section-description text-center lead">重要：HeCafter荣耀招收开发组成员！</p>
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="team-item" data-100p-top="transform[swing]:translateX(-50px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 					<img class="team-image" src="img/2e174215-2174-4e66-b54a-863c57e07e18.jpg" width="70%" alt="Person">
 					<div class="team-description">
-						<h3>寻木（MEICHI）*</h3>
+						<h3>初尘（MEICHI）*</h3>
 						<p><i class="fa fa-briefcase"></i> 服主 &amp; 总策划师</p>
-						<p>联系QQ：2982154294</p>
+						<p>联系QQ：2229222686</p>
 						
 					</div>
 				</div>
@@ -755,13 +755,13 @@
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="text-center">
-			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">加入奶茶服务器！和小伙伴们一起冒险！</h3>
-			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">进入奶茶服务器</h2>
+			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">加入荣耀服务器！和小伙伴们一起冒险！</h3>
+			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">进入荣耀服务器</h2>
 		</div>
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-power-off"></i></span></div>
 		</div>
-		<p class="section-description text-center lead">按照以下步骤就可以加入奶茶服务器了，赶快开始属于您的MilkTea奶茶冒险吧！</p>
+		<p class="section-description text-center lead">按照以下步骤就可以加入荣耀服务器了，赶快开始属于您的HeCafter荣耀冒险吧！</p>
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="feature-box text-center">
@@ -771,7 +771,7 @@
 						</span>
 					</span>
 					<h3 class="feature-header">下载游戏客户端</h3>
-					<p class="no-margin">服务器游戏版本：1.20.80/1.20.81，请下载对应的Minecraft基岩版应用！</p>
+					<p class="no-margin">服务器游戏版本：1.16.200/1.16.201，请下载对应的Minecraft基岩版应用！</p>
 					<span class="arrow hidden-xs" data-100p-top="transform[swing]:rotate(45deg);opacity[swing]:0" data-75p-top="transform[swing]:rotate(0deg);opacity[swing]:1"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
 				</div>
 			</div>
@@ -794,7 +794,7 @@
 							<span class="main-icon glyphicon glyphicon-play"></span>
 						</span>
 					</span>
-					<h3 class="feature-header">开始MilkTea奶茶之旅</h3>
+					<h3 class="feature-header">开始荣耀之旅</h3>
 					<p class="no-margin">开始游戏前请加入玩家交流群：696373265，祝您游戏愉快！</p>
 				</div>
 			</div>
@@ -812,13 +812,13 @@
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-question" aria-hidden="true"></i></span></div>
 		</div>
-		<p class="section-description text-center lead">这里是MilkTea官方管理团队对一些常见的问题的回答！</p>
+		<p class="section-description text-center lead">这里是HeCafter官方管理团队对一些常见的问题的回答！</p>
 		<div class="panel-group no-margin" id="accordion">
 			<div class="panel panel-primary" data-100p-top="transform[swing]:translateX(50px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 				<div class="panel-heading">
 					<h3 class="panel-title">
 						<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-							<span class="glyphicon glyphicon-plus"></span> 什么是MilkTea奶茶？
+							<span class="glyphicon glyphicon-plus"></span> 什么是HeCafter荣耀？
 							<span class="panel-icon">
 								<i class="fa fa-question" aria-hidden="true"></i>
 							</span>
@@ -827,14 +827,14 @@
 				</div>
 				<div id="collapseOne" class="panel-collapse collapse in">
 					<div class="panel-body">
-						<p><strong><span class="main-color">MilkTea奶茶是运维在我的世界基岩版上的一个奶茶生存服务器！</p>
+						<p><strong><span class="main-color">HeCafter荣耀是运维在我的世界基岩版上的一个RPG生存服务器！</p>
 						<ol>
 							<li><strong>多样的玩法！不再拘束于原版生存！</strong></li>
 							<li><strong>更好的游戏体验，和小伙伴一起进行冒险！</strong></li>
 							<li><strong>在这里你会体验到不一样的基岩版！</strong></li>
 							<li><strong>全新副本，自定义武器装备系统！</strong></li>
 							<li><strong>锻造师系统！玩家自由恋爱，生存区，住宅区，应有尽有！</strong></li>
-							<li><strong>赶快开始MilkTea奶茶吧！</strong></li>
+							<li><strong>赶快开始HeCafter荣耀吧！</strong></li>
 						</ol>
 						<p class="no-margin">请文明游戏，严打外挂玩家！注意合理分配游戏时间，健康游玩，不要沉迷其中！</p>
 					</div>
@@ -882,8 +882,8 @@
 <div class="standard-section section-pricing" id="pricing">
 	<div class="container">
 		<div class="text-center">
-			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">MilkTea奶茶特权介绍与购买</h3>
-			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">奶茶特权系统</h2>
+			<h3 class="standard-subheader" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">HeCafter荣耀特权介绍与购买</h3>
+			<h2 class="standard-header" data-100p-top="transform[swing]:translateX(25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">荣耀特权系统</h2>
 		</div>
 		<div class="text-center" data-100p-top="transform[swing]:translateX(-25px);opacity[swing]:0" data-75p-top="transform[swing]:translateX(0);opacity[swing]:1">
 			<div class="section-icon"><span><i class="fa fa-money" aria-hidden="true"></i></span></div>
@@ -900,7 +900,7 @@
 						<div class="price-image">
 							<div class="overlay"></div>
 							<h4 class="price-title">
-								<span class="overlay-header"><span class="main-color">MT</span>VIP<span class="main-color"></span></span>
+								<span class="overlay-header"><span class="main-color">HC</span>VIP<span class="main-color"></span></span>
 							</h4>
 						</div>
 						<ul class="price-list list-unstyled">
@@ -965,7 +965,7 @@
 						<div class="price-image">
 							<div class="overlay"></div>
 							<h4 class="price-title">
-								<span class="overlay-header"><span class="main-color">MT</span>VIP<span class="main-color">++</span></span>
+								<span class="overlay-header"><span class="main-color">HC</span>VIP<span class="main-color">++</span></span>
 								<br>
 							
 								<br>
